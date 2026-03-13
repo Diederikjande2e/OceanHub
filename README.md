@@ -21,7 +21,7 @@ Built with WindUI for a clean and modern interface.
 • UI customization
 
 ## Loader
-loadstring(game:HttpGet((https://pastebin.com/raw/Kv8FyNaK)"))()
+loadstring(game:HttpGet(("https://pastebin.com/raw/dmaqYL8Q))")()
 
 ## Version
 v1.0.1
