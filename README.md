@@ -21,7 +21,7 @@ Built with WindUI for a clean and modern interface.
 • UI customization
 
 ## Loader
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOURNAME/OceanHub/main/main.lua"))()
+loadstring(game:HttpGet((https://pastebin.com/raw/Kv8FyNaK)"))()
 
 ## Version
 v1.0.1
